@@ -39,8 +39,15 @@ never "fixed" by invention.
 [novel-writing-room.skill](https://hollowhousefilms.com/novel-writing-room.skill), open it, choose
 Save skill.
 
-**Claude Code:** copy the `novel-writing-room` folder from this repo into `~/.claude/skills/` so you
-have `~/.claude/skills/novel-writing-room/SKILL.md`.
+**Claude Code (plugin):** add this repo as a marketplace, then install:
+
+```
+/plugin marketplace add keithadler/the-adversarial-read
+/plugin install the-adversarial-read@hollow-house-films
+```
+
+**Claude Code (by hand):** or copy the `novel-writing-room` folder from this repo into
+`~/.claude/skills/` so you have `~/.claude/skills/novel-writing-room/SKILL.md`.
 
 ## Use
 

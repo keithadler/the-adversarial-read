@@ -1,0 +1,14 @@
+{
+  "name": "the-adversarial-read",
+  "description": "Adversarial editing for novelists: attacks a finished or in-progress manuscript to find where it fails, and never writes a word of the story.",
+  "version": "1.4.1",
+  "author": {
+    "name": "Keith Adler",
+    "url": "https://hollowhousefilms.com"
+  },
+  "homepage": "https://hollowhousefilms.com/skill.html",
+  "repository": "https://github.com/keithadler/the-adversarial-read",
+  "license": "Apache-2.0",
+  "keywords": ["fiction", "novel", "editing", "continuity", "manuscript", "writing"],
+  "skills": ["./novel-writing-room"]
+}

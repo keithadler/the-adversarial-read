@@ -1,0 +1,17 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "hollow-house-films",
+  "description": "Free Claude tools from Hollow House Films.",
+  "owner": {
+    "name": "Hollow House Films",
+    "url": "https://hollowhousefilms.com"
+  },
+  "plugins": [
+    {
+      "name": "the-adversarial-read",
+      "source": "./",
+      "description": "Adversarial editing for novelists: attacks a finished or in-progress manuscript to find where it fails, and never writes a word of the story.",
+      "version": "1.4.1"
+    }
+  ]
+}
